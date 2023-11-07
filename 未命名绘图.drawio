@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T02:34:53.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="P0Dxlbkbx9LPCngWp5NJ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T02:36:01.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kPLTbem0Kj2mygTb1XtJ" version="22.0.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="989" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
             <mxPoint x="357.55172413793116" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1c011MTDCDttVaNqvY0a-131" value="调用算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="1c011MTDCDttVaNqvY0a-126">
+        <mxCell id="1c011MTDCDttVaNqvY0a-131" value="调用算法传入&lt;br&gt;context信息&lt;br&gt;算法信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="1c011MTDCDttVaNqvY0a-126">
           <mxGeometry x="-0.1431" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -131,7 +131,7 @@
         <mxCell id="1c011MTDCDttVaNqvY0a-91" value="输入数据处理器&lt;br&gt;&lt;br&gt;初始化上下文&lt;br&gt;公共插件&lt;br&gt;循环算法执行匹配的业务插件&lt;br&gt;序列化到核心文件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=20;fillColor=default;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="90" y="300" width="120" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="1c011MTDCDttVaNqvY0a-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.74;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=20;exitX=0.785;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="1c011MTDCDttVaNqvY0a-100" target="1c011MTDCDttVaNqvY0a-107">
+        <mxCell id="1c011MTDCDttVaNqvY0a-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.74;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=20;exitX=0.785;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="1c011MTDCDttVaNqvY0a-100" target="1c011MTDCDttVaNqvY0a-107">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="730" as="sourcePoint" />
             <mxPoint x="450.0899999999999" y="480.00000000000006" as="targetPoint" />
